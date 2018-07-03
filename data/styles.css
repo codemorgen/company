@@ -9,6 +9,8 @@
 }
 .box_1 {
 }
+.ellipse {
+}
 .image {
 }
 .placeholder {
@@ -61,5 +63,16 @@
 }
 .arrow {
 }
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
 .flow_shape {
+}
+.icon {
 }
